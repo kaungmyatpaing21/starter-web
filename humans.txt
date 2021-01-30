@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   name     -  Kaung Myat Paing	
+   email    -  kaungmyatpaing2110@gmail.com	
+   username -  kaungmyatpaing21
 
 # THANKS
 
